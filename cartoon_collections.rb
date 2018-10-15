@@ -7,7 +7,8 @@ def summon_captain_planet (name)
   # Your code here
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(short_words)
+  short_words.any? # code an argument here
   # Your code here
 end
 
